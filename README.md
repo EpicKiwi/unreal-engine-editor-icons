@@ -8,6 +8,9 @@ In this doc repository, you'll find all icons defined in the default UE4 Editor 
 
 Icons are defined in the UE4 Editor Slate Style in the file [`SlateEditorStyle.cpp`](https://github.com/EpicGames/UnrealEngine/blob/release/Engine/Source/Editor/EditorStyle/Private/SlateEditorStyle.cpp) of the source code.
 Icons are copied from an installed version of Unreal engine 4.22 in the subdirectory `C:\Program Files\Epic Games\UE_4.22\Engine\Content\Editor\Slate`
+## Related Tools
+
+* [Texture Browser Unreal Plugin](https://github.com/hannesdelbeke/texture-browser-unreal-plugin) Resource browser
 
 ## Icons
 
